@@ -1,6 +1,6 @@
 # Rio Purnomo
 
-Frontend Engineer with Fullstack experience for 10+ years.
+Frontend Engineer with Fullstack experience for 15+ years.
 
 Topics that interest me:
 
