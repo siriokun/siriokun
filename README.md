@@ -6,58 +6,42 @@
 
 1. Design
     - Concept
-        - UI/UX for Web
+        - Product Design
         - Mobile First
         - Responsive Design
         - Human Centered Design
     - Tools
         - Figma
-        - Framer
-        - XD
-        - Photoshop
-        - Illustrator
 
 2. Frontend
     - Language
         - HTML
         - CSS
         - Javascript
-        - SVG
      - Utility
-        - Tailwind
+        - TailwindCSS
         - Bootstrap
-        - Bulma
-        - Alpine
-        - jQuery
+        - AlpineJS
       - Editor
-        - Browser
         - VSCode
-        - Terminal
 
 3. JAMStack
     - React
         - Gatsby
         - Next
-        - RAX
-    - Vue
-        - Nuxt
-        - Storefront
-    - Eleventy
     - Svelte
 
 3. DevOps
     - Git
     - Docker
     - Vercel
-    - Puppeteer
-    - GCP
-    - AWS
  
  4. Backend
     - PHP
         - WordPress
         - Drupal
         - Laravel
+            - Statamic
             - October
     - Node
         - Ghost
